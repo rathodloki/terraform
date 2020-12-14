@@ -1,3 +1,2 @@
-##Terraform
 **Infrastructure of aws using terraform**
-`by` - **rathodloki**
+>by - **rathodloki**
